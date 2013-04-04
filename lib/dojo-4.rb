@@ -1,0 +1,3 @@
+def teste
+	true
+end
