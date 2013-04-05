@@ -23,8 +23,7 @@ Linguagem
 Problema
 --------
 
-### [Geração de Fatores Primos
-](http://dojopuzzles.com/problemas/exibe/geracao-de-fatores-primos/)
+### [Geração de Fatores Primos](http://dojopuzzles.com/problemas/exibe/geracao-de-fatores-primos/)
 
 
 
