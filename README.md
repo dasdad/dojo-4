@@ -23,7 +23,8 @@ Linguagem
 Problema
 --------
 
-### [Seqüência de Cinco](http://dojopuzzles.com/problemas/exibe/sequencia-de-cinco/)
+### [Geração de Fatores Primos
+](http://dojopuzzles.com/problemas/exibe/geracao-de-fatores-primos/)
 
 
 
@@ -32,10 +33,18 @@ Retrospectiva
 
 ### A melhorar
 
-* Mac (teclado).
+* Problema simples
+* Falta de pessoas
+* Allan faltou de ultima hora
+* Qualidade do código
+* Repetir linguagem
+
 
 ### Positivo
 
-* Iniciativa. :heavy_plus_sign::heavy_plus_sign::heavy_plus_sign::heavy_plus_sign:
-* Ambiente montado.
-* Linguagem. :heavy_plus_sign:
+* Breja e salgadinhos.
+* Testes com rspec. :heavy_plus_sign::heavy_plus_sign:
+* Problema simples
+* REGEX
+* Terminou o problema
+* Problema com matematica
